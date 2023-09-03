@@ -58,9 +58,6 @@ Processingでは図形や画像描画、ウィンドウ描画用の関数が用�
 
 リンク：https://github.com/saikiRA1011/popipo_s_adventure
 
-![popipoタイトル画面](https://github.com/saikiRA1011/popipo_s_adventure/blob/main/thumbnail/thumbnail.png "タイトル画面")
-タイトル画面はAdventureのつづりを間違えています。
-
 ![popipoプレイ画面](https://github.com/saikiRA1011/popipo_s_adventure/blob/main/thumbnail/play.png "プレイ画面")
 
 # サークル活動
